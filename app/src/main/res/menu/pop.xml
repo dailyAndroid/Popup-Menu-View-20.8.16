@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/amazon" android:title="Amazon"></item>
+    <item android:id="@+id/google" android:title="Google"></item>
+    <item android:id="@+id/beme" android:title="Beme"></item>
+    <item android:id="@+id/etsy" android:title="etsy"></item>
+</menu>
